@@ -1,0 +1,30 @@
+h1
+{
+    color:red;
+    font-size: 30px;
+}
+.red
+{
+    color: rebeccapurple;
+    font-size: 20px;
+}
+.class1
+{
+    color: pink;
+    font-size: 15px;
+}
+#id1
+{
+    font-size: 30px;
+    color: brown;
+}
+.class3 p
+{
+    color: darkcyan;
+}
+.classMP
+{
+    margin: 10px 10 px 0 px 10 px;
+    padding: 10px 10px 10px 10px;
+    background-color: aqua;
+}
